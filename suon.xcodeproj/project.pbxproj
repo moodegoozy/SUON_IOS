@@ -13,9 +13,8 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		2D21FCAE2FB7DEA300D13504 /* suon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			name = suon;
-			path = /Users/user289721/Desktop/suon/suon;
-			sourceTree = "<absolute>";
+			path = suon;
+			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
